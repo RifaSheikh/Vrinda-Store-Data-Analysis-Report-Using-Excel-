@@ -3,6 +3,7 @@ Objective :
 Vrinda store wants to create an annual sales report for 2023. So that, Vrinda can understand their customers and grow more sales in 2024.
 
 Sample Questions :
+
 • Compare the sales and orders using single chart
 • Which month got the highest sales and orders?
 • Who purchased more- men or women in 2023?
@@ -13,6 +14,7 @@ Sample Questions :
 • Highest selling category?, etc.
 
 Sample Insights :
+
 • Women are more likely to buy compared to men (~65%)
 • Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
 • Adult age group (30-49 yrs) is max contributing (~50%)
